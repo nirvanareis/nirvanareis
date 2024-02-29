@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, eu me chamo Nirvana! ✨
 
-<!--
-**nirvanareis/nirvanareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Sou engenheira de Produção, apaixonada por visualização de dados :construction_worker_woman::chart_with_downwards_trend:
+* Em transição de carreira para área de Análise de Dados :woman_technologist::bar_chart:
+* Amante de viagens e de conteúdos sobre cultura, inovação e criatividade! :yellow_heart::earth_americas:
+  
 
-Here are some ideas to get you started:
+### Ferramentas e Tecnologias :computer:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://ojt.com/wp-content/uploads/2021/08/Power_BI-removebg-preview.png" width="80" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato: 
+<div>
+<a href="https://www.linkedin.com/in/nirvana-reis-134348198/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
