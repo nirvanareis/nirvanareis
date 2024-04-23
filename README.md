@@ -4,7 +4,7 @@
 * Em transição de carreira para área de Análise de Dados :woman_technologist::bar_chart:
 * Amante de viagens e de conteúdos sobre cultura, inovação e criatividade! :yellow_heart::earth_americas:
 
-Este é o meu [Portifólio de Dashboards!](https://sites.google.com/view/dashboardsnirvanareis?usp=sharing)
+Clique aqui para acessar meu [Portifólio de Dashboards!](https://sites.google.com/view/dashboardsnirvanareis?usp=sharing)
   
 
 ### Ferramentas e Tecnologias :computer:
