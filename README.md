@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Nirvana! ✨
 
 * Sou engenheira de Produção, apaixonada por visualização de dados :construction_worker_woman::chart_with_downwards_trend:
-* Em transição de carreira para área de Análise de Dados :woman_technologist::bar_chart:
+* Atualmente atuando como Trainee em Análise de Dados, na área de People Analytics :woman_technologist::bar_chart:
 * Amante de viagens e de conteúdos sobre cultura, inovação e criatividade! :yellow_heart::earth_americas:
 
 Clique aqui para acessar meu [Portifólio de Dashboards!](https://sites.google.com/view/dashboardsnirvanareis?usp=sharing)
